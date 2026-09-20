@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Daniel Ramos 👋
 
-<!--
-**daniel-ml-dev/daniel-ml-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Machine Learning & AI Developer in training | Brazil
 
-Here are some ideas to get you started:
+I'm passionate about building intelligent systems with Python, Data and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: Python, Machine Learning, Data Science, Git & GitHub
+- 🎯 Goal: To get my first job as a Junior ML / AI Developer
+- 💡 Interested in: Artificial Intelligence, Deep Learning, Computer Vision
+- 📫 How to reach me: danielramosjunior25@gmail.com
+
+#### 🛠️ Tech Stack
+`Python` `Git` `GitHub` `Machine Learning` `Data Science`
+
+---
+⭐ From Penha, Santa Catarina - Brazil, building the future with AI
