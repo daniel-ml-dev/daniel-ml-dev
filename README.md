@@ -2,7 +2,17 @@
 
 🚀 Machine Learning & AI Developer in training | Brazil
 
-I'm passionate about building intelligent systems with Python, Data and AI.
+#### 🔥 Live Project: Real Estate Price Predictor - North Coast SC
+**[ 👉 Click here to test the app LIVE: previsor-imoveis-sc.streamlit.app ](https://previsor-imoveis-sc.streamlit.app)**
+
+An ML app that predicts property prices from Joinville to Florianópolis.
+
+**Tech Stack:** Python | Scikit-Learn | Streamlit | Pandas
+**Cities:** Joinville, Barra Velha, Piçarras, Penha, Navegantes, Itajaí, Balneário Camboriú, Itapema, Bombinhas, Porto Belo, Floripa
+
+---
+📫 Let's connect! Open to Data Science opportunities.
+
 
 - 🌱 Currently learning: Python, Machine Learning, Data Science, Git & GitHub
 - 🎯 Goal: To get my first job as a Junior ML / AI Developer
