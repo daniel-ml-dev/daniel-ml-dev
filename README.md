@@ -9,7 +9,6 @@ An ML app that predicts property prices from Joinville to Florianópolis.
 
 ### 🔥 Live Project #2: Customer Churn Predictor - E-commerce
 👉 **Click here to test live:** https://churn-predictor-e-commerce.streamlit.app
-🔗 **GitHub:** https://github.com/daniel-ml-dev/churn-predictor
 Built with Python, Pandas, Scikit-Learn, RandomForest to predict customer churn and reduce customer loss.
 
 ---
